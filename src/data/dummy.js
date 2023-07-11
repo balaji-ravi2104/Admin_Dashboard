@@ -2240,9 +2240,9 @@ export const ordersData = [
     OrderItems: 'Ice Cream',
     Location: 'INDIA',
     Status: 'active',
-    StatusBg: '#03C9D7',
+    StatusBg: '#03C9D7',  
     ProductImage:
-      'https://images.immediate.co.uk/production/volatile/sites/30/2005/08/dairy-free-ice-cream-eae372d.jpg',
+      'https://media.istockphoto.com/id/471317762/photo/vanilla-ice-cream-cone.jpg?s=1024x1024&w=is&k=20&c=XfBk8Q5W_kBTao3f0bvJ76DioUOGInsMbEsFMug9W6E=',
   },
   {
     OrderID: 24546,
@@ -2386,7 +2386,7 @@ export const ordersData = [
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
-      'https://images.immediate.co.uk/production/volatile/sites/30/2005/08/dairy-free-ice-cream-eae372d.jpg',
+      'https://media.istockphoto.com/id/471317762/photo/vanilla-ice-cream-cone.jpg?s=1024x1024&w=is&k=20&c=XfBk8Q5W_kBTao3f0bvJ76DioUOGInsMbEsFMug9W6E=',
   },
   {
     OrderID: 24546,
@@ -2530,7 +2530,7 @@ export const ordersData = [
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
-      'https://images.immediate.co.uk/production/volatile/sites/30/2005/08/dairy-free-ice-cream-eae372d.jpg',
+      'https://media.istockphoto.com/id/471317762/photo/vanilla-ice-cream-cone.jpg?s=1024x1024&w=is&k=20&c=XfBk8Q5W_kBTao3f0bvJ76DioUOGInsMbEsFMug9W6E=',
   },
   {
     OrderID: 24546,
@@ -2674,7 +2674,7 @@ export const ordersData = [
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
-      'https://images.immediate.co.uk/production/volatile/sites/30/2005/08/dairy-free-ice-cream-eae372d.jpg',
+      'https://media.istockphoto.com/id/471317762/photo/vanilla-ice-cream-cone.jpg?s=1024x1024&w=is&k=20&c=XfBk8Q5W_kBTao3f0bvJ76DioUOGInsMbEsFMug9W6E=',
   },
   {
     OrderID: 24546,
@@ -2818,7 +2818,7 @@ export const ordersData = [
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
-      'https://images.immediate.co.uk/production/volatile/sites/30/2005/08/dairy-free-ice-cream-eae372d.jpg',
+      'https://media.istockphoto.com/id/471317762/photo/vanilla-ice-cream-cone.jpg?s=1024x1024&w=is&k=20&c=XfBk8Q5W_kBTao3f0bvJ76DioUOGInsMbEsFMug9W6E=',
   },
   {
     OrderID: 24546,
