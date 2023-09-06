@@ -11,7 +11,7 @@ const Calendar = () => {
       <Header category="App" title="Calendar" />
       <ScheduleComponent
       height="650px"
-      selectedDate={new Date(2023,16, 10)}
+      // selectedDate={new Date(2023,16, 10)}
       eventSettings={{ dataSource: scheduleData }}
       >
           <Inject services={[Day, Week, WorkWeek, Month, Agenda, Resize, DragAndDrop]} />
